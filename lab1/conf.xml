@@ -1,0 +1,14 @@
+<data>
+    <num_of_proc>
+	10
+    </num_of_proc>
+    <max_size>
+	1000
+    </max_size>
+    <in_file>
+	in
+    </in_file>
+    <out_file>
+	out
+    </out_file>
+</data>
